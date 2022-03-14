@@ -32,3 +32,7 @@ On Clicking upon any movie or Tv show info screen appears.Which has poster,title
 
 <img src="https://user-images.githubusercontent.com/59787775/158200786-f9833f5d-359e-430f-89fd-664755a7ecb4.jpg" width="250" height="500" />
 
+# Working Demo Video
+
+https://user-images.githubusercontent.com/59787775/158218051-7cb81f73-0245-47ba-bb81-56769c5b0e87.mp4
+
